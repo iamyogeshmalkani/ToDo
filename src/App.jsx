@@ -36,7 +36,7 @@ function App() {
     return (
       <div className="todolist">
           <div className="heading">
-              <h1 className="title">Death Note</h1>
+              <h1 className="title">To Do's</h1>
           </div>
               <input
                   maxlength="40"
